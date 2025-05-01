@@ -1,0 +1,5 @@
+Today Iam learning Jenkins for that we need 8080 port in security groups 
+create job fst 
+configure-- to open job
+bulid now --to excute job
+workspace -- to see performed jobs 

@@ -1,0 +1,3 @@
+Hi welcome to devops class.
+Here we are usin aws cloud platform
+it have multiple services 
